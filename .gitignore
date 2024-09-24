@@ -1,0 +1,16 @@
+.DS_Store
+.thumbs.db
+node_modules
+
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# local .env files
+.env.local*
+/*.ini
+/.vscode/settings.json
+/*.editorconfig
+/data/cache
